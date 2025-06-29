@@ -7,8 +7,8 @@ export type PoolState = {
   // pool prices. Complete me!
 };
 
-export type __DexName__Data = {
-  // TODO: __DexName__Data is the dex data that is
+export type_twistaFi_Data = {
+  // TODO:__twiztaFi__Data is the dex data that is
   // returned by the API that can be used for
   // tx building. The data structure should be minimal.
   // Complete me!
